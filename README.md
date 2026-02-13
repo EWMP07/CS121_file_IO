@@ -1,5 +1,8 @@
 # CS121_file_IO
+start program 
+
 int main(){
+    
     open file "data.csv"
 
     if file fails
